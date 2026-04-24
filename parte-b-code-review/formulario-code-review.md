@@ -27,7 +27,6 @@
 }
 ```
 
-**📚 Referência (opcional):**
 
 ---
 
