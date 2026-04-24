@@ -10,8 +10,8 @@
 
 | Nome completo | RA | GitHub |
 |---|---|---|
-| [Nome 1] | [000000] | [@usuario1] |
-| [Nome 2] | [000000] | [@usuario2] |
+| Lucas Freitas Reis | 223790 | [@usuario1] |
+| Gabriel de Oliveira Corrêa | [000000] | [@usuario2] |
 
 **Ambiente de testes:** [Descreva brevemente o setup — ex: Chrome 121 no Windows 11, GitHub Pages do fork, editor web do GitHub]
 
